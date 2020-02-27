@@ -1,3 +1,6 @@
+// Copyright (c) 2019 Remi Rousselet
+// https://github.com/gskinnerTeam/flutter-flippable-box
+
 import 'dart:math';
 
 import 'package:flutter/material.dart';
